@@ -10,4 +10,10 @@ you can do it
 yes i can
 need some plan
 think of some plan.
+<<<<<<< HEAD
 git-github-jenkins
+=======
+test
+now done
+testing again
+>>>>>>> 75a43331ea6f2e195457db4eece5b17acf99fbbd
